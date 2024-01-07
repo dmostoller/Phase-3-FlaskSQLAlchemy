@@ -6,8 +6,8 @@ By the end of today's lecture, you will be able to create a two-model ORM in Fla
 
 ## Lesson Plan
 
-0. Run `pipenv install` to install the necessary dependencies.
-1. Update the config file to connect to the database and allow for migrations.
+0. Run `pipenv install` and `pipenv shell` to install the necessary dependencies.
+1. Update the config file to connect to the database and allow for migrations. Run `flask db init` to create the database, and `flask db migrate` and `flask db upgrade` to update its schema.
     - What is a **database**?
     - What is a **migration**?
     - What is the advantage of creating a separate file for database connection?
