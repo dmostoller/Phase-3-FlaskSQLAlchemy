@@ -1,4 +1,4 @@
-# Phase 4 Lecture 1: Introduction to Flask-SQLAlchemy
+# Phase 3 Lecture 7: Introduction to Flask-SQLAlchemy
 
 ## Objectives
 
@@ -19,4 +19,4 @@ By the end of today's lecture, you will be able to create a two-model ORM in Fla
 
 ## Looking Ahead
 
-Tomorrow's lesson will discuss how to create a many-to-many relationship in Flask-SQLAlchemy.
+From here on we will apply these lessons to create a CLI project with a one-to-many database schema.
